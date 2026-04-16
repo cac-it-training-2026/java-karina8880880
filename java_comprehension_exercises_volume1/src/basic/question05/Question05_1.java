@@ -19,7 +19,7 @@ public class Question05_1 {
 		if (age < 20) {
 			System.out.println("20歳未満なので、お酒の提供ができません。");
 		} else {
-			System.out.println("20歳異常なので、お酒を提供することが可能です。");
+			System.out.println("20歳以上なので、お酒を提供することが可能です。");
 		}
 
 	}
